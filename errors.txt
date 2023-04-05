@@ -1,0 +1,11 @@
+EMAIL, PASSWORD, NAME, LAST_NAME, TEL, CITY
+, , Dmitriy, Vasilyev, 0000000, Kazan
+, , Ekaterina, Ilyina, , St.Petersburg
+, , Alexandr, Evdokimov, 482, Volokolamsk
+, , , , , 
+, , Vasiliy, , 7123465, Moscow
+, , sdfsdf, dwfef, 9994532, Rostov
+, , ffff, ffff, ffff, fffff
+, , , , 8954245, Moscow
+, , NO_NAME, NO_NAME, 2856735, Kaliningrad
+, , fwefwgwgwfds, sfewrfw, 9584356, Pskov
